@@ -1,3 +1,4 @@
 function skillsMember() {
-    console.log("y");
+    let skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Node', 'MongoDB'];
+    return skills;
 }
